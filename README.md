@@ -6,7 +6,7 @@ To include the python file use:
 ```py
 from isOdd import odd
 ```
-And to use it:
+And to use it do:
 ```py
 from isOdd import odd
 
